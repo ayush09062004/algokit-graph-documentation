@@ -6,6 +6,19 @@ If the main repository contains the implementation, this repository demonstrates
 
 > **Main Library:** https://github.com/ayush09062004/algokit-graph
 
+## Installation
+
+Install the latest development version directly from GitHub:
+
+```bash
+pip install git+https://github.com/ayush09062004/algokit-graph.git
+```
+
+Or, in Google Colab:
+
+```python
+!pip install git+https://github.com/ayush09062004/algokit-graph.git
+```
 ---
 
 ## Documentation Website
